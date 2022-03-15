@@ -3,7 +3,7 @@ Hola
 
 # Proyecto Storytelling (template): 
 
-Nombre del Equipo: 
+Nombre del Equipo: hola
 
 Proyecto (código): 
 
